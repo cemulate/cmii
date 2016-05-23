@@ -1,1 +1,0 @@
-This is a simple frontend to the CMWii library to fetch/write Mii data to and from the Wii Remote.
